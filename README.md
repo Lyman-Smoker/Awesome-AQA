@@ -26,5 +26,10 @@
 - Piano Skill Assessment **(ArXiv 2021)** [[Paper]](https://arxiv.org/pdf/2101.04884)
 
 ### 2020
+- An Asymmetric Modeling for Action Assessment **(ECCV 2020)** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750222.pdf)
+- FALCONS: FAst Learner-grader for CONtorted poses in Sports **(CVPRW 2020)** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w53/Nekoui_FALCONS_FAst_Learner-Grader_for_CONtorted_Poses_in_Sports_CVPRW_2020_paper.pdf)
+- Hybrid Dynamic-static Context-aware Attention Network for Action Assessment in Long Videos **(ACM-MM 2020)** [[Paper]](https://arxiv.org/pdf/2008.05977v1.pdf) [[Code]](https://github.com/lingan1996/ACTION-NET)
+- Uncertainty-aware Score Distribution Learning for Action Quality Assessment **(CVPR 2020)** [[Paper]](https://arxiv.org/pdf/2006.07665v1.pdf) [[Code]](https://github.com/nzl-thu/musdl)
 
 ### 2019
+
