@@ -24,3 +24,7 @@
 - Group-aware Contrastive Regression for Action Quality Assessment **(ICCV 2021)** [[Paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Yu_Group-Aware_Contrastive_Regression_for_Action_Quality_Assessment_ICCV_2021_paper.pdf) [[Code]](https://github.com/yuxumin/CoRe)
 - Will You Ever Become Popular? Learning to Predict Virality of Dance Clips **(TMC 2021)** [[Paper]](https://arxiv.org/pdf/2111.03819v1.pdf)
 - Piano Skill Assessment **(ArXiv 2021)** [[Paper]](https://arxiv.org/pdf/2101.04884)
+
+### 2020
+
+### 2019
