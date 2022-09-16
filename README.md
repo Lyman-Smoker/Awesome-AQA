@@ -13,6 +13,7 @@
 - Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2202.14019)
 - Skating-Mixer: Multimodal MLP for Scoring Figure Skating **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
 - Uncertainty-Driven Action Quality Assessment **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2207.14513.pdf)
+- Surgical Skill Assessment via Video Semantic Aggregation **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2208.02611)
 
 ### 2021
 - EAGLE-Eye: Extreme-pose Action Grader using detaiL bird’s-Eye view **(WACV 2021)** [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Nekoui_EAGLE-Eye_Extreme-Pose_Action_Grader_Using_Detail_Birds-Eye_View_WACV_2021_paper.pdf) [[Code]](https://github.com/MahdiNek/EAGLE-Eye)
