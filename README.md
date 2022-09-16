@@ -16,6 +16,7 @@
 - Surgical Skill Assessment via Video Semantic Aggregation **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2208.02611)
 
 ### 2021
+- Adaptive Action Assessment **(TPAMI 2021)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9609694)
 - EAGLE-Eye: Extreme-pose Action Grader using detaiL bird’s-Eye view **(WACV 2021)** [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Nekoui_EAGLE-Eye_Extreme-Pose_Action_Grader_Using_Detail_Birds-Eye_View_WACV_2021_paper.pdf) [[Code]](https://github.com/MahdiNek/EAGLE-Eye)
 - Auto-Encoding Score Distribution Regression for Action Quality Assessmentt **(ArXiv 2021)**[[Paper]](https://arxiv.org/abs/2111.11029)
 - TSA-Net: Tube Self-Attention Network for Action Quality Assessment **(ACM-MM 2022 Oral)** [[Paper]]([https://arxiv.org/abs/2111.11029](https://arxiv.org/pdf/2201.03746)) [[Code]](https://github.com/Shunli-Wang/TSA-Net)
