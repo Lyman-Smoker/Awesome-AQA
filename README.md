@@ -13,7 +13,7 @@
 - Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2202.14019)
 - Skating-Mixer: Multimodal MLP for Scoring Figure Skating **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
 - Uncertainty-Driven Action Quality Assessment **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2207.14513.pdf)
-- Surgical Skill Assessment via Video Semantic Aggregation **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2208.02611)
+- Surgical Skill Assessment via Video Semantic Aggregation **(MICCAI 2022)** [[Paper]](https://arxiv.org/pdf/2208.02611)[[Code]](https://github.com/shinkyo0513/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation)
 
 ### 2021
 - Adaptive Action Assessment **(TPAMI 2021)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9609694)
