@@ -1,7 +1,7 @@
 # Awesome Action Quality Assessment
 
 ### Survey
-- A Survey of Video-based Action Quality Assessment **(ArXiv 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
+- A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 
 ### 2022
