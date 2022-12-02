@@ -34,4 +34,7 @@
 - Uncertainty-aware Score Distribution Learning for Action Quality Assessment **(CVPR 2020)** [[Paper]](https://arxiv.org/pdf/2006.07665v1.pdf) [[Code]](https://github.com/nzl-thu/musdl)
 
 ### 2019
-
+- Action Assessment by Joint Relation Graph **(ICCV 2019)** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Action_Assessment_by_Joint_Relation_Graphs_ICCV_2019_paper.pdf)
+- Manipulation-skill Assessment from Videos with Spatial Attention Network **(ICCVW 2019)** [[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Li_Manipulation-Skill_Assessment_from_Videos_with_Spatial_Attention_Network_ICCVW_2019_paper.pdf)
+- The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [[Code]](https://github.com/hazeld/rank-aware-attention-network)
+- What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Parmar_What_and_How_Well_You_Performed_A_Multitask_Learning_Approach_CVPR_2019_paper.pdf) [[Code]](https://github.com/ParitoshParmar/MTL-AQA)
