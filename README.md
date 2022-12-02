@@ -5,6 +5,7 @@
 
 
 ### 2022
+- 3D-Yoga: A 3D Yoga Dataset for Visual-based Hierarchical Sports Action Analysis **(ACCV 2022)** [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Li_3D-Yoga_A_3D_Yoga_Dataset_for_Visual-based_Hierarchical_Sports_Action_ACCV_2022_paper.pdf)
 - Hand Hygiene Assessment via Joint Step Segmentation and Key Action Scorer **(ArXiv 2022)**  [[Paper]](https://arxiv.org/pdf/2209.12221)
 - Action Quality Assessment with Temporal Parsing Transformer **(ECCV 2022)**  [[Paper]](https://arxiv.org/pdf/2207.09270)  [[Code]](https://github.com/baiyang4/aqa_tpt)
 - FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment **(CVPR 2022 Oral)** [[paper]](https://arxiv.org/pdf/2204.03646.pdf) [[Code]](https://github.com/xujinglin/FineDiving)
