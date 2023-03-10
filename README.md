@@ -12,7 +12,7 @@
 - Likert Scoring with Grade Decoupling for Long-term Action Assessment **(CVPR 2022)**[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Likert_Scoring_With_Grade_Decoupling_for_Long-Term_Action_Assessment_CVPR_2022_paper.pdf) [[Code]](https://github.com/xuangch/CVPR22_GDLT)
 - Semi-Supervised Action Quality Assessment With Self-Supervised Segment Feature Recovery **(TCSVT 2022)**[[Paper]](https://ieeexplore.ieee.org/abstract/document/9682696)
 - Should I take a walk? Estimating Energy Expenditure from Video Data **(CVPRW 2022)**[[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Peng_Should_I_Take_a_Walk_Estimating_Energy_Expenditure_From_Video_CVPRW_2022_paper.pdf) [[Code]](https://github.com/KPeng9510/Vid2Burn)
-- Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment **(ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2202.14019) [[Code]](https://github.com/ParitoshParmar/Fitness-AQA)
+- Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment **(ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2202.14019) [[Code]](https://github.com/ParitoshParmar/Fitness-AQA)[[Citations]](https://scholar.google.com/scholar?cites=1771967292738028463&as_sdt=2005&sciodt=0,5&hl=en)
 - Skating-Mixer: Multimodal MLP for Scoring Figure Skating **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
 - Uncertainty-Driven Action Quality Assessment **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2207.14513.pdf)
 - Surgical Skill Assessment via Video Semantic Aggregation **(MICCAI 2022)** [[Paper]](https://arxiv.org/pdf/2208.02611)[[Code]](https://github.com/shinkyo0513/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation)
