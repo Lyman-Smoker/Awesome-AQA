@@ -5,6 +5,7 @@
 
 
 ### 2022
+- Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
 - 3D-Yoga: A 3D Yoga Dataset for Visual-based Hierarchical Sports Action Analysis **(ACCV 2022)** [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Li_3D-Yoga_A_3D_Yoga_Dataset_for_Visual-based_Hierarchical_Sports_Action_ACCV_2022_paper.pdf)
 - Hand Hygiene Assessment via Joint Step Segmentation and Key Action Scorer **(ArXiv 2022)**  [[Paper]](https://arxiv.org/pdf/2209.12221)
 - Action Quality Assessment with Temporal Parsing Transformer **(ECCV 2022)**  [[Paper]](https://arxiv.org/pdf/2207.09270)  [[Code]](https://github.com/baiyang4/aqa_tpt) [[Citations]](https://scholar.google.com/scholar?cites=3265520373943129836&as_sdt=2005&sciodt=0,5&hl=en)
