@@ -3,6 +3,9 @@
 ### Survey
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
+### 2023
+- LOGO: A Long-Form Video Dataset for Group Action Quality Assessment **(CVPR 2023)**
+
 
 ### 2022
 - Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
