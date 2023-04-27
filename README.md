@@ -1,11 +1,11 @@
 # Awesome Action Quality Assessment
 
+## Main Road
 ### Survey
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2023
 - LOGO: A Long-Form Video Dataset for Group Action Quality Assessment **(CVPR 2023)**
-
 
 ### 2022
 - Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
@@ -43,3 +43,17 @@
 - Manipulation-skill Assessment from Videos with Spatial Attention Network **(ICCVW 2019)** [[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Li_Manipulation-Skill_Assessment_from_Videos_with_Spatial_Attention_Network_ICCVW_2019_paper.pdf)
 - The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [[Code]](https://github.com/hazeld/rank-aware-attention-network)
 - What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Parmar_What_and_How_Well_You_Performed_A_Multitask_Learning_Approach_CVPR_2019_paper.pdf) [[Code]](https://github.com/ParitoshParmar/MTL-AQA)
+
+## New tasks/ Potential Datasets
+- FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Paper]](https://arxiv.org/abs/2212.04638)
+- Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
+
+
+
+
+
+
+
+
+
+
