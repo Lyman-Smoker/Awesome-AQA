@@ -49,7 +49,7 @@ In this reprository, interetsting papers about AQA is collected to show the deve
 - What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Parmar_What_and_How_Well_You_Performed_A_Multitask_Learning_Approach_CVPR_2019_paper.pdf) [[Code]](https://github.com/ParitoshParmar/MTL-AQA)
 
 ## New tasks/ Potential Datasets
-- Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)**
+- Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23)
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Paper]](https://arxiv.org/abs/2212.04638)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
