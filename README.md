@@ -31,10 +31,12 @@ In this reprository, interetsting papers about AQA is collected to show the deve
 - EAGLE-Eye: Extreme-pose Action Grader using detaiL bird’s-Eye view **(WACV 2021)** [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Nekoui_EAGLE-Eye_Extreme-Pose_Action_Grader_Using_Detail_Birds-Eye_View_WACV_2021_paper.pdf) [[Code]](https://github.com/MahdiNek/EAGLE-Eye)
 - Auto-Encoding Score Distribution Regression for Action Quality Assessmentt **(ArXiv 2021)**[[Paper]](https://arxiv.org/abs/2111.11029)
 - TSA-Net: Tube Self-Attention Network for Action Quality Assessment **(ACM-MM 2021 Oral)** [[Paper]](https://arxiv.org/pdf/2201.03746) [[Code]](https://github.com/Shunli-Wang/TSA-Net)
+- AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training **(CVPR 2021)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Fieraru_AIFit_Automatic_3D_Human-Interpretable_Feedback_Models_for_Fitness_Training_CVPR_2021_paper.html) [[Project]](https://fit3d.imar.ro/home)
 - Towards Unified Surgical Skill Assessment **(CVPR 2021)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Towards_Unified_Surgical_Skill_Assessment_CVPR_2021_paper.pdf) [[Code]](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment)
 - Group-aware Contrastive Regression for Action Quality Assessment **(ICCV 2021)** [[Paper]](http://openaccess.thecvf.com//content/ICCV2021/papers/Yu_Group-Aware_Contrastive_Regression_for_Action_Quality_Assessment_ICCV_2021_paper.pdf) [[Code]](https://github.com/yuxumin/CoRe)
 - Will You Ever Become Popular? Learning to Predict Virality of Dance Clips **(TMC 2021)** [[Paper]](https://arxiv.org/pdf/2111.03819v1.pdf)
 - Piano Skill Assessment **(ArXiv 2021)** [[Paper]](https://arxiv.org/pdf/2101.04884)
+
 
 ### 2020
 - An Asymmetric Modeling for Action Assessment **(ECCV 2020)** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750222.pdf)
