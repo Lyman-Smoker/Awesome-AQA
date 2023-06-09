@@ -51,6 +51,10 @@ In this reprository, interetsting papers about AQA is collected to show the deve
 - The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Doughty_The_Pros_and_Cons_Rank-Aware_Temporal_Attention_for_Skill_Determination_CVPR_2019_paper.pdf) [[Code]](https://github.com/hazeld/rank-aware-attention-network)
 - What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment **(CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Parmar_What_and_How_Well_You_Performed_A_Multitask_Learning_Approach_CVPR_2019_paper.pdf) [[Code]](https://github.com/ParitoshParmar/MTL-AQA)
 
+### 2018
+- Who’s Better? Who’s Best? Pairwise Deep Ranking for Skill Determination **(CVPR 2018)** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Doughty_Whos_Better_Whos_CVPR_2018_paper.pdf)
+- S3D: Stacking Segmental P3D for Action Quality Assessment **(ICIP 2018)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/8451364)
+ 
 ## New tasks/ Potential Datasets
 - Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23)
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
