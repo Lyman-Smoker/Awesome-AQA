@@ -10,7 +10,7 @@ In this reprository, interetsting papers about AQA is collected to show the deve
 
 ### 2023
 - LOGO: A Long-Form Video Dataset for Group Action Quality Assessment **(CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf) [[Code]](https://github.com/shiyi-zh0408/LOGO) [[Citations]](https://scholar.google.com/scholar?cites=9879603589772082553&as_sdt=2005&sciodt=0,5&hl=en)
-- Herarchical Graph Convolutional Networks for Action Quality Assessment **(TCSVT 2023)** [[Paper]](https://dro.dur.ac.uk/38628/1/38628.pdf)
+- Herarchical Graph Convolutional Networks for Action Quality Assessment **(TCSVT 2023)** [[Paper]](https://dro.dur.ac.uk/38628/1/38628.pdf) [[Code]](https://github.com/ZhouKanglei/HGCN_AQA)
 
 ### 2022
 - Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
