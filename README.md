@@ -55,6 +55,9 @@ In this reprository, interetsting papers about AQA is collected to show the deve
 - Who’s Better? Who’s Best? Pairwise Deep Ranking for Skill Determination **(CVPR 2018)** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Doughty_Whos_Better_Whos_CVPR_2018_paper.pdf)
 - S3D: Stacking Segmental P3D for Action Quality Assessment **(ICIP 2018)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/8451364)
 - End-To-End Learning for Action Quality Assessment **(PCM 2018)** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-00767-6_12)
+
+### 2017
+- Am I a Baller? Basketball Performance Assessment from First-Person Videos **(ICCV 2017)** [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Bertasius_Am_I_a_ICCV_2017_paper.pdf)
  
 ## New tasks/ Potential Datasets
 - Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23)
