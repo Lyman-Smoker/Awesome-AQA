@@ -13,6 +13,7 @@ In this reprository, interetsting papers about AQA is collected to show the deve
 - Herarchical Graph Convolutional Networks for Action Quality Assessment **(TCSVT 2023)** [[Paper]](https://dro.dur.ac.uk/38628/1/38628.pdf) [[Code]](https://github.com/ZhouKanglei/HGCN_AQA)
 - Adaptive Stage-Aware Assessment Skill Transfer for Skill Determination **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10180083)
 - Every Mistake Counts in Assembly **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2307.16453) [[Code]](https://github.com/assembly-101/assembly101-mistake-detection)
+- IRIS: Interpretable Rubric-Informed Segmentation for Action Quality Assessment **(ACMIUI 2023)** [[Paper]](https://arxiv.org/pdf/2303.09097.pdf)
 
 ### 2022
 - Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
