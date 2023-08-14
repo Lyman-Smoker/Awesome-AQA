@@ -1,7 +1,7 @@
 # Awesome Action Quality Assessment
 It is challenging to recognize the subtle differences between the videos where the actors are performing the same type of actions. To address this, **Action Quality Assessment** is a Computer Vision task that proposed to learn how well an action is performed.
 
-In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed. 
+In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed ：）
 
 
 ## Main Road
