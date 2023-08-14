@@ -61,7 +61,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 ### 2017
 - Am I a Baller? Basketball Performance Assessment from First-Person Videos **(ICCV 2017)** [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Bertasius_Am_I_a_ICCV_2017_paper.pdf)
  
-## New tasks/ Potential Datasets
+## Similar tasks and Potential Datasets
 ### Datasets
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
