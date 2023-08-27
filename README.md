@@ -13,6 +13,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Herarchical Graph Convolutional Networks for Action Quality Assessment **(TCSVT 2023)** [[Paper]](https://dro.dur.ac.uk/38628/1/38628.pdf) [[Code]](https://github.com/ZhouKanglei/HGCN_AQA)
 - Adaptive Stage-Aware Assessment Skill Transfer for Skill Determination **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10180083)
 - IRIS: Interpretable Rubric-Informed Segmentation for Action Quality Assessment **(ACMIUI 2023)** [[Paper]](https://arxiv.org/pdf/2303.09097.pdf)
+- Skating-Mixer: Multimodal MLP for Scoring Figure Skating **(AAAI 2023)** [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
 
 ### 2022
 - Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
@@ -25,7 +26,6 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Semi-Supervised Action Quality Assessment With Self-Supervised Segment Feature Recovery **(TCSVT 2022)**[[Paper]](https://ieeexplore.ieee.org/abstract/document/9682696)
 - Should I take a walk? Estimating Energy Expenditure from Video Data **(CVPRW 2022)**[[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Peng_Should_I_Take_a_Walk_Estimating_Energy_Expenditure_From_Video_CVPRW_2022_paper.pdf) [[Code]](https://github.com/KPeng9510/Vid2Burn)
 - Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment **(ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2202.14019) [[Code]](https://github.com/ParitoshParmar/Fitness-AQA)[[Citations]](https://scholar.google.com/scholar?cites=1771967292738028463&as_sdt=2005&sciodt=0,5&hl=en)
-- Skating-Mixer: Multimodal MLP for Scoring Figure Skating **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
 - Uncertainty-Driven Action Quality Assessment **(ArXiv 2022)** [[Paper]](https://arxiv.org/pdf/2207.14513.pdf)
 - Surgical Skill Assessment via Video Semantic Aggregation **(MICCAI 2022)** [[Paper]](https://arxiv.org/pdf/2208.02611)[[Code]](https://github.com/shinkyo0513/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation)
 
