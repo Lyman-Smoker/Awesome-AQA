@@ -75,7 +75,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 
 ### Adverb Recognition
-- Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23)
+- Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23) [[Citations]](https://scholar.google.com/scholar?cites=50297929267165770&as_sdt=2005&sciodt=0,5&hl=en)
 
 
 
