@@ -9,6 +9,8 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2023
+- A Figure Skating Jumping Dataset for Replay-Guided Action Quality Assessment **(ACM-MM)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613774)
+- Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613795) [[Code]](https://github.com/yanliji/FineFS-dataset)
 - Continual Action Assessment via Task-Consistent Score-Discriminative Feature Distribution Modeling **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2309.17105)
 - SEDSkill: Surgical Events Driven Method for Skill Assessment from Thoracoscopic Surgical Videos **(MICCAI 2023)**[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_4) [[Code]](https://github.com/xmed-lab/SEDSkill)
 - LOGO: A Long-Form Video Dataset for Group Action Quality Assessment **(CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf) [[Code]](https://github.com/shiyi-zh0408/LOGO) [[Citations]](https://scholar.google.com/scholar?cites=9879603589772082553&as_sdt=2005&sciodt=0,5&hl=en)
