@@ -9,6 +9,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2023
+- Learning Semantics-Guided Representations for Scoring Figure Skating **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301591)
 - CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(ArXiv 2023)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - A Figure Skating Jumping Dataset for Replay-Guided Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613774)
 - Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613795) [[Code]](https://github.com/yanliji/FineFS-dataset)
