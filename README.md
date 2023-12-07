@@ -70,12 +70,14 @@ In this reprository, interetsting papers in AQA are collected to show the develo
  
 ## Similar tasks and Potential Datasets
 ### Datasets
+- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(ArXiv 2023)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]]()
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
+
 ### Mistake Detection
 - IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting **(WACV 2023)** [[Paper]](https://arxiv.org/pdf/2310.17323.pdf) [[Code]](https://github.com/TimSchoonbeek/IndustReal)
-- Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos **(ICCV 2023)** [[Project]](https://usa.honda-ri.com/ata) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.html) 
+- Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos **(ICCV 2023)** [[Project]](https://usa.honda-ri.com/ata) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf)(https://openaccess.thecvf.com/content/ICCV2023/html/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.html) 
 - HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World **(ICCV 2023)** [[Project]](https://holoassist.github.io) [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.html) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en)
 - Put on your detective hat: What's wrong in this video? **(ICMLW 2023)** [[Project]](https://error-dataset.github.io/ErrorDataset/index.html) [[Paper]](https://dmlr.ai/assets/accepted-papers/136/CameraReady/DMLR_ICML_2023_1.pdf)
 - Every Mistake Counts in Assembly **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2307.16453) [[Code]](https://github.com/assembly-101/assembly101-mistake-detection)
