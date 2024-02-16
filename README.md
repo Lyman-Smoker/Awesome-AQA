@@ -8,6 +8,9 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 ### Survey
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
+### 2024
+- Multimodal Action Quality Assessment **(TIP 2024)** [[Paper]](https://arxiv.org/abs/2402.09444) [[Code]](https://github.com/qinghuannn/PAMFN)
+
 ### 2023
 - Fine-Grained Spatio-Temporal Parsing Network for Action Quality Assessment **(TIP 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10317826)
 - PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment **(WACV 2023 Oral)** [[Paper]](https://arxiv.org/pdf/2311.07603.pdf) [[Code]](https://github.com/Plrbear/PECoP)
