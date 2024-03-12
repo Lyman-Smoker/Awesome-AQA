@@ -11,13 +11,13 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 ### 2024
 - Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Coming soon]]
 - FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024)** [[Coming soon]]
+- CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - Multimodal Action Quality Assessment **(TIP 2024)** [[Paper]](https://arxiv.org/abs/2402.09444) [[Code]](https://github.com/qinghuannn/PAMFN)
 
 ### 2023
 - Fine-Grained Spatio-Temporal Parsing Network for Action Quality Assessment **(TIP 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10317826)
 - PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment **(WACV 2023 Oral)** [[Paper]](https://arxiv.org/pdf/2311.07603.pdf) [[Code]](https://github.com/Plrbear/PECoP)
 - Learning Semantics-Guided Representations for Scoring Figure Skating **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301591)
-- CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(ArXiv 2023)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - A Figure Skating Jumping Dataset for Replay-Guided Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613774)
 - Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613795) [[Code]](https://github.com/yanliji/FineFS-dataset)
 - Continual Action Assessment via Task-Consistent Score-Discriminative Feature Distribution Modeling **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2309.17105)
