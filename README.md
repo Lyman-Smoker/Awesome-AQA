@@ -9,6 +9,8 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Coming soon]]
+- FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024)** [[Coming soon]]
 - Multimodal Action Quality Assessment **(TIP 2024)** [[Paper]](https://arxiv.org/abs/2402.09444) [[Code]](https://github.com/qinghuannn/PAMFN)
 
 ### 2023
@@ -74,7 +76,8 @@ In this reprository, interetsting papers in AQA are collected to show the develo
  
 ## Similar tasks and Potential Datasets
 ### Datasets
-- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(ArXiv 2023)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
+- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(CVPR 2024)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
+- EgoBridge: A Dataset for Bridging Asynchronous First- and Third-Person View of Activities in Real World **(CVPR 2024)** [[Project]](https://egobridge.github.io)
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
