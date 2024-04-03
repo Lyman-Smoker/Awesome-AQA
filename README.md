@@ -83,6 +83,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 
 ### Mistake Detection
+- PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
 - IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting **(WACV 2023)** [[Paper]](https://arxiv.org/pdf/2310.17323.pdf) [[Code]](https://github.com/TimSchoonbeek/IndustReal)
 - Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos **(ICCV 2023)** [[Project]](https://usa.honda-ri.com/ata) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.html) 
 - HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World **(ICCV 2023)** [[Project]](https://holoassist.github.io) [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.html) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en)
