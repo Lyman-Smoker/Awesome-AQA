@@ -10,7 +10,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 ### 2024
 - CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment **(IJCAI 2024)** [[Paper]](https://arxiv.org/pdf/2404.13999.pdf) [[Code]](https://github.com/ZhouKanglei/CoFInAl_AQA)
-- Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
+- Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
 - FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024)** [[Coming soon]]
 - CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - Multimodal Action Quality Assessment **(TIP 2024)** [[Paper]](https://arxiv.org/abs/2402.09444) [[Code]](https://github.com/qinghuannn/PAMFN)
