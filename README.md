@@ -9,6 +9,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Continual Action Assessment via Task-Consistent Score-Discriminative Feature Distribution Modeling **(TCSVT 2024)** [[Paper]](https://arxiv.org/abs/2309.17105) [[Code]](https://github.com/iSEE-Laboratory/Continual-AQA)
 - CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment **(IJCAI 2024)** [[Paper]](https://arxiv.org/pdf/2404.13999.pdf) [[Code]](https://github.com/ZhouKanglei/CoFInAl_AQA)
 - Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
 - FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024)** [[Coming soon]]
@@ -21,7 +22,6 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Learning Semantics-Guided Representations for Scoring Figure Skating **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301591)
 - A Figure Skating Jumping Dataset for Replay-Guided Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613774)
 - Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613795) [[Code]](https://github.com/yanliji/FineFS-dataset)
-- Continual Action Assessment via Task-Consistent Score-Discriminative Feature Distribution Modeling **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2309.17105) [[Code]](https://github.com/iSEE-Laboratory/Continual-AQA)
 - SEDSkill: Surgical Events Driven Method for Skill Assessment from Thoracoscopic Surgical Videos **(MICCAI 2023)**[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_4) [[Code]](https://github.com/xmed-lab/SEDSkill)
 - LOGO: A Long-Form Video Dataset for Group Action Quality Assessment **(CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf) [[Code]](https://github.com/shiyi-zh0408/LOGO) [[Citations]](https://scholar.google.com/scholar?cites=9879603589772082553&as_sdt=2005&sciodt=0,5&hl=en)
 - Herarchical Graph Convolutional Networks for Action Quality Assessment **(TCSVT 2023)** [[Paper]](https://dro.dur.ac.uk/38628/1/38628.pdf) [[Code]](https://github.com/ZhouKanglei/HGCN_AQA)
