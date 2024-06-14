@@ -14,6 +14,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
 - FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2405.06887#pdfjs.action=download) [[Code]](https://github.com/PKU-ICST-MIPL/FineParser_CVPR2024)
 - CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_CPR-Coach_Recognizing_Composite_Error_Actions_based_on_Single-class_Training_CVPR_2024_paper.pdf) [[Code]](https://github.com/Shunli-Wang/CPR-Coach)
+- Hierarchical NeuroSymbolic Approach for Comprehensive and Explainable Action Quality Assessment **(CVPRW 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html) [[Code]](https://github.com/laurenok24/NSAQA)
 - Multimodal Action Quality Assessment **(TIP 2024)** [[Paper]](https://arxiv.org/abs/2402.09444) [[Code]](https://github.com/qinghuannn/PAMFN)
 
 ### 2023
