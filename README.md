@@ -87,7 +87,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 ### Mistake Detection
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
-- Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html)
+- Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html) [[Code]](https://github.com/robert80203/EgoPER_official)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
 - IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting **(WACV 2023)** [[Paper]](https://arxiv.org/pdf/2310.17323.pdf) [[Code]](https://github.com/TimSchoonbeek/IndustReal)
 - Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos **(ICCV 2023)** [[Project]](https://usa.honda-ri.com/ata) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.html) 
