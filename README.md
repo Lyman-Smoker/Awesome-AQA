@@ -78,6 +78,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
  
 ## Similar tasks and Potential Datasets
 ### Datasets
+- Live Fitness Coaching as a Testbed for Situated Interaction **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.08101) [[Project]](https://developer.qualcomm.com/software/ai-datasets/qevd)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
 - Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(CVPR 2024)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en) [[Code]](https://github.com/EGO4D?tab=repositories)
 - EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.16182.pdf) [[Code]](https://github.com/OpenGVLab/EgoExoLearn/)
