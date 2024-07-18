@@ -9,6 +9,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Procedure-Aware Action Quality Assessment: Datasets and Performance Evaluation **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02146-z) [[Code]](https://github.com/xujinglin/FineDiving)
 - Continual Action Assessment via Task-Consistent Score-Discriminative Feature Distribution Modeling **(TCSVT 2024)** [[Paper]](https://arxiv.org/abs/2309.17105) [[Code]](https://github.com/iSEE-Laboratory/Continual-AQA)
 - CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment **(IJCAI 2024)** [[Paper]](https://arxiv.org/pdf/2404.13999.pdf) [[Code]](https://github.com/ZhouKanglei/CoFInAl_AQA)
 - FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024 Oral)** [[Paper]](https://arxiv.org/pdf/2405.06887#pdfjs.action=download) [[Code]](https://github.com/PKU-ICST-MIPL/FineParser_CVPR2024)
