@@ -5,16 +5,16 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 ## 💥 **Some noteworthy works in 2024 (Last update: 2024.07.24)**
 - **Two papers focus on collaborating multi-modal information for better assessment.**
-    * PAMFN(TIP24), NAE(CVPR24)
+    * [PAMFN(TIP-24)](https://arxiv.org/abs/2402.09444), NAE(CVPR-24)
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
-    * Brand new datasets: CPR-Coach(CVPR24), Ego-Exo4D(CVPR24), EgoExoLearn(CVPR24), EgoExo-Fitness(ECCV24)
-    * Expand existing datasets: FineDiving++(IJCV24), NAE(CVPR24), FineParser(CVPR24)
+    * Brand new datasets: CPR-Coach(CVPR-24), Ego-Exo4D(CVPR-24), EgoExoLearn(CVPR-24), EgoExo-Fitness(ECCV-24)
+    * Expand existing datasets: FineDiving++(IJCV-24), NAE(CVPR-24), FineParser(CVPR-24)
 - **A few works start focusing on interpretable action assessment.**
-    * NS-AQA(CVPRW24), EgoExo-Fitness(ECCV24)
+    * NS-AQA(CVPRW24), EgoExo-Fitness(ECCV-24)
 - **Two papers propose to address continual action assessment concurrently.**
-    * FSDAR-AGSG(TCSVT24), MAGR(ECCV24)
+    * FSDAR-AGSG(TCSVT24), MAGR(ECCV-24)
 - **More works start focusing on error detection.**
-    * EgoPER(CVPR24), PREGO(CVPR24), DTGL(ArXiv24)
+    * EgoPER(CVPR-24), PREGO(CVPR-24), DTGL(ArXiv-24)
 
 ## Main Road
 ### Survey
