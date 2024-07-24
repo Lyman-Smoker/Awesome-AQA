@@ -12,7 +12,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - **A few works start focusing on interpretable action assessment.**
     * [NS-AQA(CVPRW24)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
 - **Two papers propose to address continual action assessment concurrently.**
-    * [FSDAR-AGSG(TCSVT24)](https://arxiv.org/abs/2309.17105), [MAGR(ECCV-24)](arxiv.org/abs/2403.04398)
+    * [FSCAR-AGSG(TCSVT24)](https://arxiv.org/abs/2309.17105), [MAGR(ECCV-24)](arxiv.org/abs/2403.04398)
 - **More works start focusing on (online) error detection.**
     * [EgoPER(CVPR-24)](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html), [PREGO(CVPR-24)](https://arxiv.org/abs/2404.01933), [DTGL(ArXiv-24)](https://arxiv.org/abs/2406.01486)
 
