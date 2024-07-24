@@ -3,6 +3,18 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
+### 💥 **Some noteworthy works in 2024 (update 2024.07.24)**: 
+- **Two papers focus on collaborating multi-modal information for better assessment.**
+    * PAMFN(TIP24), NAE(CVPR24)
+- **A series of works focus on collecting new data to facilitate other branch of research in this field.**
+    * Brand new datasets: CPR-Coach(CVPR24), Ego-Exo4D(CVPR24), EgoExoLearn(CVPR24), EgoExo-Fitness(ECCV24)
+    * Expand existing datasets: FineDiving++(IJCV24), NAE(CVPR24), FineParser(CVPR24)
+- **A few works start focusing on interpretable action assessment.**
+    * NS-AQA(CVPRW24), EgoExo-Fitness(ECCV24)
+- **Two papers propose to address continual action assessment concurrently.**
+    * FSDAR-AGSG(TCSVT24), MAGR(ECCV24)
+- **More works start focusing on error detection.**
+    * EgoPER(CVPR24), PREGO(CVPR24), DTGL(ArXiv24)
 
 ## Main Road
 ### Survey
