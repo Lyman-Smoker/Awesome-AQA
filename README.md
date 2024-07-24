@@ -3,7 +3,7 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
-### 💥 **Some noteworthy works in 2024 (update 2024.07.24)**: 
+## 💥 **Some noteworthy works in 2024 (Last update: 2024.07.24)**
 - **Two papers focus on collaborating multi-modal information for better assessment.**
     * PAMFN(TIP24), NAE(CVPR24)
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
