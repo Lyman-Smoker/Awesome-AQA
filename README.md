@@ -4,8 +4,6 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
 ## 💥 **Some noteworthy works in 2024 (Last update: 2024.07.24)**
-- **Two papers focus on collaborating multi-modal information for better assessment.**
-    * [PAMFN(TIP-24)](https://arxiv.org/abs/2402.09444), [NAE(CVPR-24)](https://arxiv.org/abs/2404.14471)
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
     * Brand new datasets: [CPR-Coach(CVPR-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [Ego-Exo4D(CVPR-24)](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), [EgoExoLearn(CVPR-24)](https://arxiv.org/pdf/2403.16182.pdf), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
     * Expand existing datasets: [FineDiving++(IJCV-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [NAE(CVPR-24)](https://arxiv.org/abs/2404.14471), [FineParser(CVPR-24)](https://arxiv.org/pdf/2405.06887#pdfjs.action=download)
