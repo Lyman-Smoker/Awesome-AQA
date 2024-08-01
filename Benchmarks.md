@@ -41,7 +41,9 @@ The [FineDiving(CVPR22)](https://arxiv.org/pdf/2204.03646) dataset is a diving d
 
 ## LOGO
 
-## Figure-Skating
+## Rhythmic Gymnastics
+
+## Fis-V
 
 
 
