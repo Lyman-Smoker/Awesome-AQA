@@ -15,6 +15,9 @@ In this reprository, interetsting papers in AQA are collected to show the develo
     * [EgoPER(CVPR-24)](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html), [PREGO(CVPR-24)](https://arxiv.org/abs/2404.01933), [DTGL(ArXiv-24)](https://arxiv.org/abs/2406.01486)
 
 ## Main Road
+### Performance Tables
+Coming soon.
+
 ### Survey
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
