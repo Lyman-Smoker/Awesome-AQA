@@ -36,6 +36,7 @@ The [FineDiving(CVPR22)](https://arxiv.org/pdf/2204.03646) dataset is a diving d
 
 
 ## MTL-AQA
+[MTL-AQA(CVPR2019)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Parmar_What_and_How_Well_You_Performed_A_Multitask_Learning_Approach_CVPR_2019_paper.pdf) is a diving dataset featuring annotations of action types, captions, and action quality scores.
 ### w/o DN
 | Publication | <div style="width: 90pt">Model</div>  | <div style="width: 60pt">w/<br/>exemplar</div> | <div style="width: 60pt">Input<br/> (Train)</div> | <div style="width: 60pt">Input<br/> (Test)</div> | <div style="width: 60pt">Rho ↑</div> | <div style="width: 60pt">R-L2(*100) ↓</div> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
