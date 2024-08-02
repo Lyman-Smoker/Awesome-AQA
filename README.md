@@ -102,6 +102,9 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
+### Narrative Action Assessment
+- Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
+- Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.06189) [[Project]](https://orrzohar.github.io/projects/video-star/) [[Code]](https://github.com/orrzohar/Video-STaR)
 
 ### Mistake Detection
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
