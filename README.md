@@ -23,6 +23,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- RICA2: Rubric-Informed, Calibrated Assessment of Actions **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.02138) [[Project]](https://abrarmajeedi.github.io/rica2_aqa/) [[Code]](https://github.com/abrarmajeedi/rica2_aqa)
 - MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment **(ECCV 2024)** [[Paper]](arxiv.org/abs/2403.04398) [[Code]](https://github.com/ZhouKanglei/MAGR_CAQA)
 - Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.19675)
 - Procedure-Aware Action Quality Assessment: Datasets and Performance Evaluation **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02146-z) [[Code]](https://github.com/xujinglin/FineDiving)
