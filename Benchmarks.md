@@ -5,7 +5,7 @@ The FineDiving-HM dataset is proposed by [FineParser(CVPR24)](https://arxiv.org/
 | Publication | <div style="width: 90pt">Model</div>  | <div style="width: 60pt">w/<br/>exemplar</div> | <div style="width: 60pt">Input<br/> (Train)</div> | <div style="width: 60pt">Input<br/> (Test)</div> | <div style="width: 60pt">Rho ↑</div> | <div style="width: 60pt">R-L2(*100) ↓</div> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | CVPR2024 | [FineParser](https://arxiv.org/pdf/2405.06887#pdfjs.action=download) | ✓ | RGB+Step+Mask | RGB | 0.9435 | 0.2602|
-| CVPR2023 | [FineDiving(CVPR22)](https://arxiv.org/pdf/2204.03646)       | ✓ | RGB+Step | RGB | 0.9324 |  0.3022|
+| CVPR2023 | [TSA](https://arxiv.org/pdf/2204.03646)       | ✓ | RGB+Step_Boundary | RGB | 0.9324 |  0.3022|
 | ICCV2021 | CoRe       | ✓ | RGB | RGB | 0.9308 |  0.3148|
 | CVPR2020 | MUSDL      | x | RGB | RGB | 0.9241 |  0.3474|
 | CVPR2020 | USDL       | x | RGB | RGB | 0.8830 |  0.4800|
@@ -27,10 +27,10 @@ The [FineDiving(CVPR22)](https://arxiv.org/pdf/2204.03646) dataset is a diving d
 ### w/ DN
 | Publication | <div style="width: 90pt">Model</div>  | <div style="width: 60pt">w/<br/>exemplar</div> | <div style="width: 60pt">Input<br/> (Train)</div> | <div style="width: 60pt">Input<br/> (Test)</div> | <div style="width: 60pt">Rho ↑</div> | <div style="width: 60pt">R-L2(*100) ↓</div> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ECCV2024 | [RICA2+](https://arxiv.org/abs/2408.02138)       | x | RGB | RGB | 0.9421 | 0.2600 |
-| ECCV2024 | [RICA2](https://arxiv.org/abs/2408.02138)       | x | RGB | RGB | 0.9402 | 0.2838 |
+| ECCV2024 | [RICA2+](https://arxiv.org/abs/2408.02138)       | x | RGB+Step_Name | RGB+Step_Name | 0.9421 | 0.2600 |
+| ECCV2024 | [RICA2](https://arxiv.org/abs/2408.02138)       | x | RGB+Step_Name | RGB+Step_Name | 0.9402 | 0.2838 |
 | ECCV2022 | TPT        | ✓ | RGB | RGB | 0.9333 | 0.2877 |
-| CVPR2023 | [FineDiving](https://arxiv.org/pdf/2204.03646)        | ✓ | RGB+Step | RGB | 0.9203 | 0.3420 |
+| CVPR2023 | [TSA](https://arxiv.org/pdf/2204.03646)        | ✓ | RGB+Step_Boundary | RGB | 0.9203 | 0.3420 |
 | ICCV2021 | CoRe       | ✓ | RGB | RGB | 0.9061 | 0.3615 |
 | CVPR2020 | MUSDL      | x | RGB | RGB | 0.8978 | 0.3704 |
 | CVPR2020 | USDL       | x | RGB | RGB | 0.8913 | 0.3822 |
@@ -53,8 +53,8 @@ The [FineDiving(CVPR22)](https://arxiv.org/pdf/2204.03646) dataset is a diving d
 ### w/ DN
 | Publication | <div style="width: 90pt">Model</div>  | <div style="width: 60pt">w/<br/>exemplar</div> | <div style="width: 60pt">Input<br/> (Train)</div> | <div style="width: 60pt">Input<br/> (Test)</div> | <div style="width: 60pt">Rho ↑</div> | <div style="width: 60pt">R-L2(*100) ↓</div> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ECCV2024 | [RICA2+](https://arxiv.org/abs/2408.02138)     | x | RGB | RGB | 0.9620 | 0.2280 |
-| ECCV2024 | [RICA2](https://arxiv.org/abs/2408.02138)      | x | RGB | RGB | 0.9594 | 0.2580 |
+| ECCV2024 | [RICA2+](https://arxiv.org/abs/2408.02138)     | x | RGB+Step_Name | RGB+Step_Name | 0.9620 | 0.2280 |
+| ECCV2024 | [RICA2](https://arxiv.org/abs/2408.02138)      | x | RGB+Step_Name | RGB+Step_Name | 0.9594 | 0.2580 |
 | CVPR2024 | PGMI        | ✓ | RGB+Action+Caption | RGB | 0.943 | 0.340 |
 | ECCV2022 | TPT        | ✓ | RGB | RGB | 0.9607 | 0.238 |
 | ICCV2021 | CoRe       | ✓ | RGB | RGB | 0.9512 | 0.260 |
