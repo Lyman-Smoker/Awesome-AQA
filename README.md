@@ -109,6 +109,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.06189) [[Project]](https://orrzohar.github.io/projects/video-star/) [[Code]](https://github.com/orrzohar/Video-STaR)
 
 ### Mistake Detection
+- Find the Assembly Mistakes: Error Segmentation for Industrial Applications **(ECCVW 2024)** [[Project]](https://timschoonbeek.github.io/error_seg) [[Code]](https://github.com/Dan-Leh/find-my-assembly-mistakes)
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
 - Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html) [[Code]](https://github.com/robert80203/EgoPER_official)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
