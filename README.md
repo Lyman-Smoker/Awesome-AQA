@@ -1,4 +1,4 @@
-# Awesome Action Quality Assessment
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/4ee72b30-6384-4476-b878-5711793bd955"># Awesome Action Quality Assessment
 Action Quality Assessment aims at evaluating and quantifying the overall performance or proficiency of human actions based on the analysis of video or motion data.
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
@@ -23,6 +23,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Rhythmer: Ranking-based Skill Assessment with Rhythm-aware Transformer **(TCSVT 2024)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679980)
 - Interpretable Long-term Action Quality Assessment **(BMVC 2024)** [[Paper]](https://arxiv.org/abs/2408.11687) [[Code]](https://github.com/dx199771/Interpretability-AQA)
 - RICA2: Rubric-Informed, Calibrated Assessment of Actions **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.02138) [[Project]](https://abrarmajeedi.github.io/rica2_aqa/) [[Code]](https://github.com/abrarmajeedi/rica2_aqa)
 - MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment **(ECCV 2024)** [[Paper]](arxiv.org/abs/2403.04398) [[Code]](https://github.com/ZhouKanglei/MAGR_CAQA)
