@@ -1,4 +1,4 @@
-<img width="420" alt="image" src="https://github.com/user-attachments/assets/4ee72b30-6384-4476-b878-5711793bd955"># Awesome Action Quality Assessment
+# Awesome Action Quality Assessment
 Action Quality Assessment aims at evaluating and quantifying the overall performance or proficiency of human actions based on the analysis of video or motion data.
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
