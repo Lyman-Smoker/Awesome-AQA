@@ -5,7 +5,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 ## 💥 **Some noteworthy works in 2024 (Last update: 2024.07.24)**
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
-    * Brand new datasets: [CPR-Coach(CVPR-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [Ego-Exo4D(CVPR-24)](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), [EgoExoLearn(CVPR-24)](https://arxiv.org/pdf/2403.16182.pdf), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
+    * Brand new datasets: [LucidAction(NeurIPS-24)], [CPR-Coach(CVPR-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [Ego-Exo4D(CVPR-24)](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), [EgoExoLearn(CVPR-24)](https://arxiv.org/pdf/2403.16182.pdf), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
     * Expand existing datasets: [FineDiving++(IJCV-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [NAE(CVPR-24)](https://arxiv.org/abs/2404.14471), [FineParser(CVPR-24)](https://arxiv.org/pdf/2405.06887#pdfjs.action=download)
 - **A few works start focusing on interpretable action assessment (not just predict scores / paired rankings).**
     * [NS-AQA(CVPRW24)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
@@ -23,6 +23,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- LucidAction: A Hierarchical and Multi-model Dataset for Comprehensive Action Quality Assessment **(NeurIPS 2024)**
 - Rhythmer: Ranking-based Skill Assessment with Rhythm-aware Transformer **(TCSVT 2024)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679980)
 - Interpretable Long-term Action Quality Assessment **(BMVC 2024)** [[Paper]](https://arxiv.org/abs/2408.11687) [[Code]](https://github.com/dx199771/Interpretability-AQA)
 - RICA2: Rubric-Informed, Calibrated Assessment of Actions **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.02138) [[Project]](https://abrarmajeedi.github.io/rica2_aqa/) [[Code]](https://github.com/abrarmajeedi/rica2_aqa)
