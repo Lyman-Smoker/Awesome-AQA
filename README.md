@@ -23,6 +23,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Visual-semantic Alignment Temporal Parsing for Action Quality Assessment **(TCSVT 2024)** [[Paper]](https://ieeexplore.ieee.org/document/10737230)
 - Self-supervised subaction parsing network for semi-supervised action quality assessment **(TIP 2024)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10706814)
 - LucidAction: A Hierarchical and Multi-model Dataset for Comprehensive Action Quality Assessment **(NeurIPS 2024)**
 - Rhythmer: Ranking-based Skill Assessment with Rhythm-aware Transformer **(TCSVT 2024)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679980)
