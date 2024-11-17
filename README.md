@@ -20,6 +20,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 
 ## Main Road
 ### Survey
+- Vision-based human action quality assessment: A systematic review **(2024)**
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
