@@ -3,12 +3,12 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
-## 💥 **Some noteworthy works in 2024 (Last update: 2024.10.11)**
+## 💥 **Some noteworthy works in 2024 (Last update: 2024.11.27)**
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
     * Brand new datasets: [LucidAction(NeurIPS-24)], [CPR-Coach(CVPR-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [Ego-Exo4D(CVPR-24)](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), [EgoExoLearn(CVPR-24)](https://arxiv.org/pdf/2403.16182.pdf), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
     * Expand existing datasets: [FineDiving++(IJCV-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [NAE(CVPR-24)](https://arxiv.org/abs/2404.14471), [FineParser(CVPR-24)](https://arxiv.org/pdf/2405.06887#pdfjs.action=download)
 - **A few works start focusing on interpretable action assessment (not just predict scores / paired rankings).**
-    * [NS-AQA(CVPRW24)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
+    * [NS-AQA(CVPRW24)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html), [ExpertAF(ArXiv24)](https://arxiv.org/abs/2408.00672), [TechCoach(ArXiv24)](https://arxiv.org/abs/2411.17130)
 - **Two papers propose to address continual action assessment concurrently.**
     * [FSCAR-AGSG(TCSVT24)](https://arxiv.org/abs/2309.17105), [MAGR(ECCV-24)](arxiv.org/abs/2403.04398)
 - **More works start focusing on (online) error detection.**
@@ -110,8 +110,11 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
 ### Narrative Action Assessment
+- TechCoach: Towards Technical Keypoint-Aware Descriptive Action Coaching **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2411.17130)
+- ExpertAF: Expert Actionable Feedback from Video **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.00672) [[Project]](https://vision.cs.utexas.edu/projects/ExpertAF/)
 - Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
 - Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.06189) [[Project]](https://orrzohar.github.io/projects/video-star/) [[Code]](https://github.com/orrzohar/Video-STaR)
+
 
 ### Mistake Detection
 - Find the Assembly Mistakes: Error Segmentation for Industrial Applications **(ECCVW 2024)** [[Project]](https://timschoonbeek.github.io/error_seg) [[Code]](https://github.com/Dan-Leh/find-my-assembly-mistakes)
