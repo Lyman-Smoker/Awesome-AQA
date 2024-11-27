@@ -12,7 +12,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - **Two papers propose to address continual action assessment concurrently.**
     * [FSCAR-AGSG(TCSVT24)](https://arxiv.org/abs/2309.17105), [MAGR(ECCV-24)](arxiv.org/abs/2403.04398)
 - **More works start focusing on (online) error detection.**
-    * [EgoPER(CVPR-24)](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html), [PREGO(CVPR-24)](https://arxiv.org/abs/2404.01933), [DTGL(ArXiv-24)](https://arxiv.org/abs/2406.01486)
+    * [EgoPER(CVPR-24)](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html), [PREGO(CVPR-24)](https://arxiv.org/abs/2404.01933), [DTGL(NeurIPS-24)](https://arxiv.org/abs/2406.01486)
 
 ## 📈 Performance Tables
 Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various popular AQA benchmarks.
@@ -117,8 +117,8 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 
 
 ### Mistake Detection
+- Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
 - Find the Assembly Mistakes: Error Segmentation for Industrial Applications **(ECCVW 2024)** [[Project]](https://timschoonbeek.github.io/error_seg) [[Code]](https://github.com/Dan-Leh/find-my-assembly-mistakes)
-- Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
 - Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html) [[Code]](https://github.com/robert80203/EgoPER_official)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
 - IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting **(WACV 2023)** [[Paper]](https://arxiv.org/pdf/2310.17323.pdf) [[Code]](https://github.com/TimSchoonbeek/IndustReal)
