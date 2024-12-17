@@ -16,6 +16,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 
 ## Main Road
 ### Survey
+- A Comprehensive Survey of Action Quality Assessment: Method and Benchmark **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2412.11149) [[Project]](https://zhoukanglei.github.io/AQA-Survey/)
 - Vision-based human action quality assessment: A systematic review **(2024)**
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
