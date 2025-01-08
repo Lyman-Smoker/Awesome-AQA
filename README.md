@@ -22,6 +22,9 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Vision-based human action quality assessment: A systematic review **(2024)**
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
+### 2025
+- Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.03674) [[Project]](https://github.com/Lumos0507/HP-MCoRe)
+
 ### 2024
 - Visual-semantic Alignment Temporal Parsing for Action Quality Assessment **(TCSVT 2024)** [[Paper]](https://ieeexplore.ieee.org/document/10737230)
 - Self-supervised subaction parsing network for semi-supervised action quality assessment **(TIP 2024)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10706814)
