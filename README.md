@@ -3,7 +3,7 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
-## 💥 **Some noteworthy works in 2024 (Last update: 2024.11.27)**
+## 💥 **Some noteworthy works in 2024 (Last update: 2025.02.09)**
 - **Two New Comprehensive Survey of AQA.**
     * [[paper1]](https://arxiv.org/abs/2412.11149) [[Paper2]](https://arxiv.org/abs/2502.02817)
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
