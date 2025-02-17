@@ -24,6 +24,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2025
+- Adaptive Spatiotemporal Graph Transformer Network for Action Quality Assessment **(TCSVT 2025)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10884538) [[Code]](https://github.com/jiangliu5/ASGTN_AQA)
 - Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.03674) [[Project]](https://github.com/Lumos0507/HP-MCoRe)
 
 ### 2024
