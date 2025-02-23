@@ -3,7 +3,7 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
-## 💥 **Some noteworthy works in 2024 (Last update: 2025.02.09)**
+## 💥 **Some noteworthy recent works (Last update: 2025.02.23)**
 - **Two New Comprehensive Survey of AQA.**
     * [[paper1]](https://arxiv.org/abs/2412.11149) [[Paper2]](https://arxiv.org/abs/2502.02817)
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
@@ -24,7 +24,6 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2025
-- VIDEO ACTION DIFFERENCING **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=3bcN6xlO6f)
 - Adaptive Spatiotemporal Graph Transformer Network for Action Quality Assessment **(TCSVT 2025)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10884538) [[Code]](https://github.com/jiangliu5/ASGTN_AQA)
 - Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.03674) [[Project]](https://github.com/Lumos0507/HP-MCoRe)
 
