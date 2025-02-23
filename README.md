@@ -132,7 +132,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Every Mistake Counts in Assembly **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2307.16453) [[Code]](https://github.com/assembly-101/assembly101-mistake-detection)
 
 ### Video Action Differencing
-- Video Action Differencing with Natural Language **(2024)** [[Project]](https://jmhb0.github.io/viddiff_web/) [[Code]](https://github.com/jmhb0/VidDiff)
+- Video Action Differencing **(ICLR 2025)** [[Project]](https://jmhb0.github.io/viddiff_web/) [[Code]](https://github.com/jmhb0/VidDiff) [[Paper]](https://openreview.net/pdf?id=3bcN6xlO6f)
 
 ### Adverb Recognition
 - Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23) [[Citations]](https://scholar.google.com/scholar?cites=50297929267165770&as_sdt=2005&sciodt=0,5&hl=en)
