@@ -33,6 +33,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - LucidAction: A Hierarchical and Multi-model Dataset for Comprehensive Action Quality Assessment **(NeurIPS 2024)**
 - Rhythmer: Ranking-based Skill Assessment with Rhythm-aware Transformer **(TCSVT 2024)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679980)
 - Interpretable Long-term Action Quality Assessment **(BMVC 2024)** [[Paper]](https://arxiv.org/abs/2408.11687) [[Code]](https://github.com/dx199771/Interpretability-AQA)
+- Vision-Language Action Knowledge Learning for Semantic-Aware Action Quality Assessment **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05909.pdf)
 - RICA2: Rubric-Informed, Calibrated Assessment of Actions **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.02138) [[Project]](https://abrarmajeedi.github.io/rica2_aqa/) [[Code]](https://github.com/abrarmajeedi/rica2_aqa)
 - MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment **(ECCV 2024)** [[Paper]](arxiv.org/abs/2403.04398) [[Code]](https://github.com/ZhouKanglei/MAGR_CAQA)
 - Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.19675)
