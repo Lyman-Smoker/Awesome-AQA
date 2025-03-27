@@ -24,6 +24,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2025
+- BASKET 🏀 : A Large-Scale Video Dataset for Fine-Grained Skill Estimation **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2503.20781) [[Project]](https://sites.google.com/cs.unc.edu/basket) [[Code]](https://github.com/yulupan00/BASKET/tree/main)
 - Pose-Guided Transformer for Fine-Grained Action Quality Assessment **(TCSVT 2025)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10902635)
 - Adaptive Spatiotemporal Graph Transformer Network for Action Quality Assessment **(TCSVT 2025)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10884538) [[Code]](https://github.com/jiangliu5/ASGTN_AQA)
 - Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.03674) [[Project]](https://github.com/Lumos0507/HP-MCoRe)
