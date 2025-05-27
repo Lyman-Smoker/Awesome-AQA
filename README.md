@@ -3,19 +3,6 @@ Action Quality Assessment aims at evaluating and quantifying the overall perform
 
 In this reprository, interetsting papers in AQA are collected to show the development of the AQA community. Moreover, some papers about similar tasks and datasets are listed.
 
-## 💥 **Some noteworthy recent works (Last update: 2025.02.23)**
-- **Two New Comprehensive Survey of AQA.**
-    * [[paper1]](https://arxiv.org/abs/2412.11149) [[Paper2]](https://arxiv.org/abs/2502.02817)
-- **A series of works focus on collecting new data to facilitate other branch of research in this field.**
-    * Brand new datasets: [LucidAction(NeurIPS-24)], [CPR-Coach(CVPR-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [Ego-Exo4D(CVPR-24)](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), [EgoExoLearn(CVPR-24)](https://arxiv.org/pdf/2403.16182.pdf), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
-    * Expand existing datasets: [VidDiff(ICLR-25)](https://openreview.net/pdf?id=3bcN6xlO6f), [FineDiving++(IJCV-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [NAE(CVPR-24)](https://arxiv.org/abs/2404.14471), [FineParser(CVPR-24)](https://arxiv.org/pdf/2405.06887#pdfjs.action=download)
-- **A few works start focusing on interpretable action assessment (not just predict scores / paired rankings).**
-    * [VidDiff(ICLR-25)](https://openreview.net/pdf?id=3bcN6xlO6f), [NS-AQA(CVPRW24)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html), [ExpertAF(ArXiv24)](https://arxiv.org/abs/2408.00672), [TechCoach(ArXiv24)](https://arxiv.org/abs/2411.17130)
-- **Two papers propose to address continual action assessment concurrently.**
-    * [FSCAR-AGSG(TCSVT24)](https://arxiv.org/abs/2309.17105), [MAGR(ECCV-24)](arxiv.org/abs/2403.04398)
-- **More works start focusing on (online) error detection.**
-    * [EgoPER(CVPR-24)](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html), [PREGO(CVPR-24)](https://arxiv.org/abs/2404.01933), [DTGL(NeurIPS-24)](https://arxiv.org/abs/2406.01486)
-
 ## Main Road
 ### Survey
 - A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2502.02817) [[Project]](https://haoyin116.github.io/Survey_of_AQA/)
@@ -24,6 +11,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2025
+- PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction **(TIP 2025)** [[Paper]](https://arxiv.org/abs/2505.19972) [[Code]](https://github.com/ZhouKanglei/PHI_AQA)
 - Language-Guided Audio-Visual Learning for Long-Term Sports Assessment **(CVPR 2025)**
 - BASKET 🏀 : A Large-Scale Video Dataset for Fine-Grained Skill Estimation **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2503.20781) [[Project]](https://sites.google.com/cs.unc.edu/basket) [[Code]](https://github.com/yulupan00/BASKET/tree/main)
 - Pose-Guided Transformer for Fine-Grained Action Quality Assessment **(TCSVT 2025)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10902635)
