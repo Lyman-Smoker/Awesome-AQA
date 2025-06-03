@@ -108,8 +108,9 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - 
 
 ### Narrative Action Assessment
+- Vid2Coach: Transforming How-To Videos into Task Assistants **(CVPRW 2025)**
 - TechCoach: Towards Technical Keypoint-Aware Descriptive Action Coaching **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2411.17130)
-- ExpertAF: Expert Actionable Feedback from Video **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.00672) [[Project]](https://vision.cs.utexas.edu/projects/ExpertAF/)
+- ExpertAF: Expert Actionable Feedback from Video **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2408.00672) [[Project]](https://vision.cs.utexas.edu/projects/ExpertAF/)
 - Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
 - Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.06189) [[Project]](https://orrzohar.github.io/projects/video-star/) [[Code]](https://github.com/orrzohar/Video-STaR)
 
