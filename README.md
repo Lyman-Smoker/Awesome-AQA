@@ -11,6 +11,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2025
+- FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2506.03198.pdf) [[Code]](https://github.com/HaoYin116/FLEX)
 - PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction **(TIP 2025)** [[Paper]](https://arxiv.org/abs/2505.19972) [[Code]](https://github.com/ZhouKanglei/PHI_AQA)
 - Language-Guided Audio-Visual Learning for Long-Term Sports Assessment **(CVPR 2025)**
 - BASKET 🏀 : A Large-Scale Video Dataset for Fine-Grained Skill Estimation **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2503.20781) [[Project]](https://sites.google.com/cs.unc.edu/basket) [[Code]](https://github.com/yulupan00/BASKET/tree/main)
