@@ -10,7 +10,8 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Vision-based human action quality assessment: A systematic review **(2024)**
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
-### 2025
+### 2025 
+- ExAct: A Video-Language Benchmark for Expert Action Analysis **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2506.06277) [[Project]](https://texaser.github.io/exact_project_page/) [[Code]](https://github.com/Texaser/Exact)
 - FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2506.03198.pdf) [[Code]](https://github.com/HaoYin116/FLEX)
 - PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction **(TIP 2025)** [[Paper]](https://arxiv.org/abs/2505.19972) [[Code]](https://github.com/ZhouKanglei/PHI_AQA)
 - Language-Guided Audio-Visual Learning for Long-Term Sports Assessment **(CVPR 2025)**
