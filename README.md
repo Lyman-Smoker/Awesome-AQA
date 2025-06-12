@@ -11,6 +11,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2025 
+- From Beats to Scores: A Multi-Modal Framework for Comprehensive Figure Skating Assessment **(CVPRW 2025)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/papers/Wang_From_Beats_to_Scores_A_Multi-Modal_Framework_for_Comprehensive_Figure_CVPRW_2025_paper.pdf) [[Code]](https://github.com/ycwfs/Figure-Skating-Quality-Assessment)
 - ExAct: A Video-Language Benchmark for Expert Action Analysis **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2506.06277) [[Project]](https://texaser.github.io/exact_project_page/) [[Code]](https://github.com/Texaser/Exact)
 - FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2506.03198.pdf) [[Code]](https://github.com/HaoYin116/FLEX)
 - PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction **(TIP 2025)** [[Paper]](https://arxiv.org/abs/2505.19972) [[Code]](https://github.com/ZhouKanglei/PHI_AQA)
